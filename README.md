@@ -36,6 +36,9 @@ When completing the previous operations, type this command in the terminal
 ```shel
   flutter packages get
 ```
+
+
+Note:  " set the Server IP befor build the app "
 When completing Run the project
 ## Screenshots
 
