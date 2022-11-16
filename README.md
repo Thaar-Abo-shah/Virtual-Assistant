@@ -4,6 +4,11 @@
 It is a virtual assistant, built with Flutter & Dart that can help with some tasks and is able to help with software solutions
 ## Installation
 
+You need to install Server firstly:
+- [The Model in server Python ](https://github.com/Thaar-Abo-shah/ChatBot)
+- [The API NodeJS ](https://github.com/Thaar-Abo-shah/Chatbot_and_FlutterApp_API)
+
+
 Add these permissions to this file : android > app > src > main > AndroidManifest.xml
 ```xml
     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
